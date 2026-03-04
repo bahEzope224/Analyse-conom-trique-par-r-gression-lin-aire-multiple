@@ -6,7 +6,7 @@
 
 
 
-> **Projet personnel** — Réalisé dans le cadre personnel  
+> **Réalisé dans le cadre personnel**  
 > **Auteur :** [Ibrahima Bah](https://github.com/bahEzope224)
 
 ---
